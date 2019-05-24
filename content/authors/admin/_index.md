@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate at the Mannheim Centre for European Social Research (MZES)
 
 # Organizations/Affiliations
 organizations:
