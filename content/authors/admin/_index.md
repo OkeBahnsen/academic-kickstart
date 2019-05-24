@@ -30,10 +30,10 @@ education:
   courses:
   - course: PhD Candidate, Present
     institution: University of Mannheim
-  - course: MEd in Mathematics and Economics/Politics
+  - course: M.Ed. in Mathematics and Economics/Politics
     institution: University of Kiel
     year: 2017
-  - course: BSc in Mathematics and Economics/Politics
+  - course: B.A. in Mathematics and Economics/Politics
     institution: University of Kiel
     year: 2014
 
