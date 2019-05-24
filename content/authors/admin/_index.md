@@ -27,15 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate, Present
+    institution: University of Mannheim
+  - course: MEd in Mathematics and Economics/Politics
+    institution: University of Kiel
+    year: 2017
+  - course: BSc in Mathematics and Economics/Politics
+    institution: University of Kiel
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
