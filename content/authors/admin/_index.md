@@ -22,7 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Voting Behavior
-- Pre-electoral Coalition Strategies
+- Pre-electoral Coalition Signals
+- Coalition Governments
 - Quantitative Methods
 
 education:
