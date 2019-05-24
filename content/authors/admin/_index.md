@@ -14,7 +14,7 @@ role: Research Associate at the Mannheim Centre for European Social Research (MZ
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Mannheim
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
