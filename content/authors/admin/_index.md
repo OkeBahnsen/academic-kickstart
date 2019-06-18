@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Voting Behavior
-- Pre-electoral Coalition Signals
 - Coalition Governments
+- Pre-electoral Coalition Signals
+- Voting Behavior
+- Causal Inference
 - Quantitative Methods
 
 education:
