@@ -75,4 +75,4 @@ user_groups:
 
 I am a second-year PhD Candidate in Political Science and Research Associate at the Mannheim Centre for European Social Research (MZES) at the University of Mannheim. 
 
-My substantial research focuses on coalition politics and electoral behavior, where I am especially interested in pre-electoral coalition politics and how it affects electoral behavior. I am also interested in quantitative and computational Methods, particularly in applying ecological inference models, item-response theory, Bayesian statistics and experimental design to substantive problems.
+My substantial research focuses on coalition politics and electoral behavior, where I am especially interested in pre-electoral coalition politics and how it affects electoral behavior. I am also interested in quantitative and computational methods, particularly in applying ecological inference models, item-response theory, Bayesian statistics and experimental design to substantive problems.
