@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate, Present
+  - course: PhD Candidate, 2017 - Present
     institution: Graduate School of Economic and Social Sciences, University of Mannheim
   - course: M.Ed. in Mathematics and Economics/Politics
     institution: University of Kiel
