@@ -30,6 +30,9 @@ education:
   courses:
   - course: PhD Candidate, 2017 - Present
     institution: Graduate School of Economic and Social Sciences, University of Mannheim
+  - course: M.Sc. in Economics
+    institution: University of Kiel
+    year: 2019
   - course: M.Ed. in Mathematics and Economics/Politics
     institution: University of Kiel
     year: 2017
@@ -75,4 +78,4 @@ user_groups:
 
 I am a second-year PhD Candidate in Political Science and Research Associate at the Mannheim Centre for European Social Research (MZES) at the University of Mannheim. 
 
-My substantial research focuses on coalition politics and electoral behavior, where I am especially interested in pre-electoral coalition politics and in how it affects electoral behavior. I am also interested in quantitative and computational methods, particularly in applying ecological inference models, item-response theory, Bayesian statistics and experimental design to substantive problems.
+My substantial research focuses on coalition politics and electoral behavior, where I am especially interested in pre-electoral coalition politics and in how it affects electoral behavior. I am also interested in quantitative and computational methods, particularly in.
