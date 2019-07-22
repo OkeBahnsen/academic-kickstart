@@ -44,7 +44,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/DCEJudges1.pdf"
+url_pdf = "evolution.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
