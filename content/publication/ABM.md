@@ -68,6 +68,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "evolution.png"
-caption = "Interaction Effect Judicial Policy Uncertainty and Preference Divergence"
+caption = "Bla"
 
 +++
