@@ -79,4 +79,4 @@ user_groups:
 
 I am a second-year PhD Candidate in Political Science at the [Graduate School of Economic and Social Sciences (GESS)](https://gess.uni-mannheim.de/) at the University of Mannheim and a research associate at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en). 
 
-My substantial research focuses on coalition politics and electoral behavior, where I am especially interested in pre-electoral coalition politics and in how it affects electoral behavior. I am also interested in quantitative and computational methods, particularly in agent-based models in order to study opinion dynamics.
+My substantial research focuses on coalition politics and electoral behavior, where I am especially interested in pre-electoral coalition politics and in how it affects electoral behavior. I am also interested in quantitative and computational methods, particularly in agent-based models which I utilize in order to study opinion dynamics.
