@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+# publication: In *Source Themes Conference*
+# publication_short: In *STC*
 
 abstract: Existing research is inconclusive about if and how social interactions influence individuals' political preferences. This study formulates and tests an agent-based model of opinion dynamics which claims to explain the evolution of political preferences by means of social interaction effects. The approach incorporates a majority and a momentum mechanism claiming that individuals are affected by perceived opinion levels as well as by opinion changes. This theoretical model is empirically tested by estimating its parameters on government satisfaction in Germany. The results support the empirical validity of the approach: A significant momentum mechanism can be identified while other significant parameters display meaningful estimates. Additionally, almost every week's level of government satisfaction is a likely realization of the process given the data of the previous week. Beyond that, the findings suggest that individuals are rather affected by opinion changes than by opinion levels and that nonconformity plays a more important role in the evolution of the considered preference than conformity.
 
