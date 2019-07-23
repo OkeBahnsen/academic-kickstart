@@ -1,73 +1,74 @@
-+++
+---
+title: "An example conference paper"
+authors:
+- admin
+- Robert Ford
+date: "2013-07-01T00:00:00Z"
+doi: ""
 
-title = "Are Judges Political Animals After All? Quasi-experimental Evidence from the German Federal Constitutional Court"
-date = "2016-06-01"
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Oke Bahnsen"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
 
-# Publication name and optional abbreviated version.
-publication = "*Working Paper*"
-publication_short = ""
+# Publication name and optional abbreviated publication name.
+publication: In *Source Themes Conference*
+publication_short: In *STC*
 
-# Abstract and optional shortened version.
-abstract = "Constitutional court judges maintain to be independent, apolitical actors, even though they get nominated by political elites. So far, much of the research has focused on the legal output of courts in order to show that judges are political animals. Studying outcomes is often plagued by endogeneity issues (e.g., when using votes to predict votes), or is simply not possible in some contexts due to the non-disclosure of individual voting records. Alternatively, scholars employ a party-label heuristic and infer from the ideological position of the nominating party to the ideological position of judges. But do those ideological differences between judges become behaviorally relevant? In this paper, we provide two peaces of evidence that judges nominated by different parties seem to behave differently. First, we study the composition of three-judge panels (Chambers) of the German Federal Constitutional Court using Chamber decisions from 1998-2011 and show that homogenous panels have been actively avoided. Second, we analyze the court’s replacement rules for absentee judges for the composition of chambers. We show that in situations where mechanically following the rules of procedure to replace absentee judges would lead to homogenous panels, the likelihood to deviate from those rules is systematically higher. Hence, judges elide formal rules to avoid homogenous chambers in order to appear politically unbiased."
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-abstract_short = "In this paper, we use a quasi-natural experiment to study how party label heuristics influence the replacement policy of absentee judges at the German Federal Constitutional Court."
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# Featured image thumbnail (optional)
-image_preview = ""
+tags:
+- Source Themes
+featured: true
 
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-
-# Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Does this page contain LaTeX math? (true/false)
-math = false
-
-# Does this page require source code highlighting? (true/false)
-highlight = true
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "evolution.png"
-caption = "Causal effect of party labels on replacement policy"
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
