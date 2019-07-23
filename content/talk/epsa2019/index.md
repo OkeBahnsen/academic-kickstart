@@ -1,7 +1,7 @@
 +++
 date = 2019-06-22T09:00:00  # Schedule page publish date.
 
-title = "9th European Political Science Association General Conference 2019, Belfast, United Kingdom"
+title = "9th European Political Science Association General Conference 2019"
 time_start = 2019-06-22T09:00:00
 time_end = 2019-06-22T11:40:00
 abstract = "Presented Paper: *Are Coalition Signals Cheap Talk for Voters?*"
