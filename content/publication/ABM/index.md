@@ -2,7 +2,7 @@
 title: "An Agent-Based Approach to Estimate Social Interaction Effects on Government Satisfaction in Germany"
 authors:
 - admin
-date: "2013-00-00T00:00:00Z"
+date: "2017-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
