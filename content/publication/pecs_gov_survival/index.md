@@ -3,7 +3,7 @@ title: "Time Flies When You’re With Friends? Government Survival in Presence
 of Pre-Electoral Coalitions"
 authors:
 - admin
-date: "2019-07-01T00:00:00Z"
+date: "2019-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
