@@ -3,7 +3,7 @@ title: "Emotions and Personal Attitudes"
 authors:
 - Ulrich W. D. Müller
 - admin
-- Prof. Dr. Georg W. Alpers
+- Georg W. Alpers
 date: "2019-07-01T00:00:00Z"
 doi: ""
 
