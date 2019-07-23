@@ -1,5 +1,5 @@
 ---
-title: "Der Diskurs über Reformen des Bundestagswahlrechts 2008 bis 2013."
+title: "Der Diskurs über Reformen des Bundestagswahlrechts 2008 bis 2013"
 authors:
 - Eric Linhart
 - admin
