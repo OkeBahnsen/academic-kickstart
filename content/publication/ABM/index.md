@@ -43,7 +43,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Numerical solutions of transient densities from the Fokker-Planck equation employing the Crank-Nicolson scheme'
   focal_point: ""
   preview_only: false
 
