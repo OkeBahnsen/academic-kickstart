@@ -24,7 +24,7 @@ abstract: Existing research is inconclusive about if and how social interactions
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study formulates and tests an agent-based model of opinion dynamics which claims to explain the evolution of political preferences by means of social interaction effects.
 
 tags:
 - Source Themes
