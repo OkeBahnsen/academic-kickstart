@@ -1,9 +1,10 @@
 +++
-date = 2019-06-22T09:00:00  # Schedule page publish date.
+date = 2019-02-16T08:30:00  # Schedule page publish date.
 
 title = "Swiss Political Science Association Annual Conference and Dreiländertagung 2019"
 time_start = 2019-02-16T08:30:00
 time_end = 2019-02-16T10:00:00
+
 abstract = "Presented Paper: *Time Flies When You’re With Friends? Government Survival in Presence of Pre-Electoral Coalitions*"
 
 abstract_short = ""
