@@ -22,7 +22,7 @@ abstract: Existing research is inconclusive about if and how social interactions
 
 
 # Summary. An optional shortened abstract.
-summary: An Agent-Based Approach to Estimate Social Interaction Effects on Government Satisfaction in Germany
+summary: An Agent-Based Approach to Estimate Social Interaction Effects on Government Satisfaction in Germany.
 
 tags:
 - Source Themes
