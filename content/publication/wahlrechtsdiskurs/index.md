@@ -3,7 +3,7 @@ title: "Der Diskurs über Reformen des Bundestagswahlrechts 2008 bis 2013"
 authors:
 - Eric Linhart
 - admin
-date: "2018-12-01T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
