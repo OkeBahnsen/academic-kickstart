@@ -1,10 +1,10 @@
 ---
-title: "An Agent-Based Approach to Estimate Social Interaction Effects on Government Satisfaction in Germany"
+title: "How Do Coalition Signals Shape Voting Behavior?"
 authors:
 - admin
 - Thomas Gschwend
 - Lukas F. Stoetzer
-date: "2017-09-01T00:00:00Z"
+date: "2019-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,23 +17,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
-publication_short: "*Working Paper*"
+publication: "*Submitted to Journal*"
+publication_short: "*Submitted to Journal*"
 
-abstract: Existing research is inconclusive about if and how social interactions affect individuals' political preferences. This study formulates and tests an agent-based model of opinion dynamics which claims to explain the evolution of political preferences by means of social interaction effects. The approach incorporates a majority and a momentum mechanism claiming that individuals are affected by perceived opinion levels as well as by opinion changes. This theoretical model is empirically tested by estimating its parameters on government satisfaction in Germany. The results support the empirical validity of the approach. Beyond that, the findings suggest that individuals are rather affected by opinion changes than by opinion levels and that nonconformity plays a more important role in the evolution of the considered preference than conformity.
+abstract: 
 
 
 
 
 # Summary. An optional shortened abstract.
-summary: This study formulates and tests an agent-based model of opinion dynamics which claims to explain the evolution of political preferences by means of social interaction effects.
+summary: 
 
 tags:
 - Source Themes
 featured: true
 
 links:
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
