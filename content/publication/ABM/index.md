@@ -15,8 +15,6 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
 
 abstract: Existing research is inconclusive about if and how social interactions affect individuals' political preferences. This study formulates and tests an agent-based model of opinion dynamics which claims to explain the evolution of political preferences by means of social interaction effects. The approach incorporates a majority and a momentum mechanism claiming that individuals are affected by perceived opinion levels as well as by opinion changes. This theoretical model is empirically tested by estimating its parameters on government satisfaction in Germany. The results support the empirical validity of the approach. Beyond that, the findings suggest that individuals are rather affected by opinion changes than by opinion levels and that nonconformity plays a more important role in the evolution of the considered preference than conformity.
 
@@ -31,16 +29,14 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -65,12 +61,3 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
