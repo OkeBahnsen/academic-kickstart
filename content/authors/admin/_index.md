@@ -22,7 +22,7 @@ bio: My research interests include coalition politics, voting behavior and quant
 
 interests:
 - Coalition Politics
-- Voting Behavior
+- Electoral Behavior
 - Quantitative Methods
 - Causal Inference
 - Opinion Dynamics
