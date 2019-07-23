@@ -2,6 +2,8 @@
 title: "An Agent-Based Approach to Estimate Social Interaction Effects on Government Satisfaction in Germany"
 authors:
 - admin
+- Thomas Gschwend
+- Lukas F. Stoetzer
 date: "2017-09-01T00:00:00Z"
 doi: ""
 
