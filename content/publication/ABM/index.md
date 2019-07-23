@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 
+url_pdf: pdf/Social_Interaction_and_Political_Preferences.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
