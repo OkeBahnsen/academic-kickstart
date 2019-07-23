@@ -67,7 +67,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "sim_violin-1.png"
+image = "evolution.png"
 caption = "Causal effect of party labels on replacement policy"
 
 +++
