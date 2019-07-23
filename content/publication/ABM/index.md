@@ -1,8 +1,7 @@
 ---
-title: "An example conference paper"
+title: "An Agent-Based Approach to Estimate Social Interaction Effects \\[0.4em] on Government Satisfaction in Germany"
 authors:
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
