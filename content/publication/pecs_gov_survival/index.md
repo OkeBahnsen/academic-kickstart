@@ -1,6 +1,5 @@
 ---
-title: "Time Flies When You’re With Friends? Government Survival in Presence
-of Pre-Electoral Coalitions"
+title: "Government Survival in Presence of Pre-Electoral Coalitions"
 authors:
 - admin
 date: "2019-05-01T00:00:00Z"
