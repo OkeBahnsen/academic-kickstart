@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include coalition politics, voting behavior and quantitative methods.
+bio: My research interests include coalition politics, voting behavior and agent-based modeling.
 
 interests:
 - Coalition Politics
 - Electoral Behavior
-- Quantitative Methods
+- Agent-Based Modeling
 - Causal Inference
 - Opinion Dynamics
 
