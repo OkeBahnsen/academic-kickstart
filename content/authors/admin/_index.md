@@ -51,7 +51,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:oke.bahnsen@mzes.uni-mannheim.de".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/okuspokus_
+  link: https://twitter.com/okebahnsen
 - icon: linkedin
   icon_pack: fab
   link: https://de.linkedin.com/in/oke-bahnsen-243832127
