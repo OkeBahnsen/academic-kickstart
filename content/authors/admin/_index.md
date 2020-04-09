@@ -26,6 +26,7 @@ interests:
 - Party Competition
 - Agent-Based Modeling
 - Causal Inference
+- Experimental Research
 
 education:
   courses:
