@@ -1,5 +1,5 @@
 ---
-title: "How Do Coalition Signals Shape Voting Behavior?"
+title: "How Do Coalition Signals Shape Voting Behavior? Revealing the Mediating Role of Coalition Expectations"
 authors:
 - admin
 - Thomas Gschwend
