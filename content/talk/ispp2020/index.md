@@ -1,5 +1,5 @@
 +++
-date = 2020-07-14T09:00:00  # Schedule page publish date.
+date = 2019-07-14T09:00:00  # Schedule page publish date.
 
 title = "Annual Scientific Meeting of the International Society of Political Psychology 2020"
 time_start = 2020-07-14T09:00:00
