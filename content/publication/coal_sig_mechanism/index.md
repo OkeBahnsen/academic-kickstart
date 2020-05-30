@@ -31,6 +31,7 @@ featured: true
 
 links:
 url_pdf: 'pdf/ES2020_Article.pdf'
+url_appendix: 'pdf/ES2020_Article.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
