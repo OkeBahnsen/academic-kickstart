@@ -14,16 +14,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted to Journal*"
-publication_short: "*Submitted to Journal*"
+publication: "*Electoral Studies (forthcoming)*"
+publication_short: "*Electoral Studies (forthcoming)*"
 
-abstract: 
-
-
-
+abstract: Existing empirical research suggests that there are two mechanisms through which pre-electoral coalition signals shape voting behavior. According to these, coalition signals both shift the perceived ideological positions of parties and prime coalition considerations at the cost of party considerations. The work at hand is the first to test another possibility of how coalition signals affect voting. This coalition expectation mechanism claims that coalition signals affect voting decisions by changing voters' expectations about which coalitions are likely to form after the election. Moreover, this paper provides the first integrative overview of all three mechanisms that link coalition signals and individual voting behavior. Results from a survey experiment conducted during Sweden's 2018 general election suggest that the coalition expectation mechanism can indeed be at work. By showing how parties' pre-electoral coalition behavior enter a voter's decision calculus, the paper provides important insights for the literature on strategic voting theories in proportional systems.
 
 # Summary. An optional shortened abstract.
 summary: 
