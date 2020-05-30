@@ -1,14 +1,14 @@
 +++
-date = 2019-06-22T09:00:00  # Schedule page publish date.
+date = 2020-07-14T09:00:00  # Schedule page publish date.
 
-title = "9th European Political Science Association General Conference 2019"
-time_start = 2019-06-22T09:00:00
-time_end = 2019-06-22T11:40:00
-abstract = "Presented Paper: *Are Coalition Signals Cheap Talk for Voters?*"
+title = "Annual Scientific Meeting of the International Society of Political Psychology 2020"
+time_start = 2020-07-14T09:00:00
+time_end = 2020-07-16T11:40:00
+abstract = "Presented Paper: *Anxiety Politics - Evidence from a Pre-Registered Experiment on the Impact of Threat of Shock on Political Attitudes*"
 
 abstract_short = ""
-event = "9th European Political Science Association General Conference 2019"
-location = "Belfast, United Kingdom"
+event = "Annual Scientific Meeting of the International Society of Political Psychology 2020"
+location = "Berlin, Germany"
 
 # Is this a selected talk? (true/false)
 selected = false
