@@ -1,5 +1,5 @@
 +++
-date = 2019-08-24T09:00:00  # Schedule page publish date.
+date = 2020-08-24T09:00:00  # Schedule page publish date.
 
 title = "14th European Consortium for Political Research General Conference 2020"
 time_start = 2020-08-24T09:00:00
