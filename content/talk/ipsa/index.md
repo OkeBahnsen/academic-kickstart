@@ -1,5 +1,5 @@
 +++
-date = 2019-08-24T09:00:00  # Schedule page publish date.
+date = 2020-07-25T09:00:00  # Schedule page publish date.
 
 title = "26th International Political Science Association World Congress 2020 (Cancelled due to COVID-19 Pandemic)"
 time_start = 2020-07-25T09:00:00
