@@ -26,7 +26,7 @@ You can choose from one of the following four methods to install:
 * [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
 * [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
 
-Then  [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
 
 ## Ecosystem
 
