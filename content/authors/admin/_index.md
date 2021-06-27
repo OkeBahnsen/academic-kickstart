@@ -11,10 +11,10 @@ bio: My research interests include coalition politics, voting behavior and agent
 interests:
 - Coalition Politics
 - Electoral Behavior
-- Party Competition
-- Agent-Based Modeling
 - Causal Inference
 - Experimental Research
+- Agent-Based Modeling
+
 education:
   courses:
   - course: PhD Candidate, 2017 - Present
