@@ -6,7 +6,7 @@ role: Research Associate at the Mannheim Centre for European Social Research (MZ
 organizations:
 - name: University of Mannheim
   url: ''
-bio: My research interests include coalition politics, voting behavior and agent-based
+bio: My research interests include coalition politics, voting behavior, experimental research, and agent-based
   modeling.
 interests:
 - Coalition Politics
@@ -50,4 +50,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Political Science at the [Graduate School of Economic and Social Sciences (GESS)](https://gess.uni-mannheim.de/) at the University of Mannheim and a research associate at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en). My substantial research focuses on **coalition politics** and **electoral behavior**, where I am especially interested in pre-electoral coalition politics and how it affects electoral behavior. Methodologically, I am interested in **experimental research** both in the laboratory and in large-scale population-based surveys. Also, I am engaged in **agent-based modeling** which I utilize in order to study party competition or opinion dynamics.
+I am a PhD Candidate in Political Science at the [Graduate School of Economic and Social Sciences (GESS)](https://gess.uni-mannheim.de/) at the University of Mannheim and a research associate at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en). My substantial research focuses on **coalition politics** and **electoral behavior**, where I am especially interested in pre-electoral coalition politics and how it affects electoral behavior. Methodologically, I am interested in **experimental research** both in the laboratory and in large-scale population-based surveys. Also, I am engaged in **agent-based modeling** which I utilize in order to study party competition and opinion dynamics.
