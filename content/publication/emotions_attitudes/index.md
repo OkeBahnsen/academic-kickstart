@@ -1,5 +1,5 @@
 ---
-title: "Anxiety does not Change Political Attitude: A Threat of Shock Experiment"
+title: "Anxiety does not Change Political Attitudes: A Threat of Shock Experiment"
 authors:
 - Ulrich W. D. Müller
 - admin
@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
-publication_short: "*Working Paper*"
+publication: "*Data Collection*"
+publication_short: "*Data Collection*"
 
 abstract:
 
