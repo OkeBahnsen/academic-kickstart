@@ -32,7 +32,7 @@ featured: true
 links:
 url_pdf: 'pdf/ES2020_Article.pdf'
 url_code: 'https://github.com/OkeBahnsen/academic-kickstart/tree/master/static/code/ES2020'
-url_dataset: 'https://github.com/OkeBahnsen/academic-kickstart/blob/master/static/code/ES2020/auxiliary%20files/data/mp30_s7_gschwend_20180808_noid.dta'
+url_dataset: 'https://github.com/OkeBahnsen/academic-kickstart/tree/master/static/code/ES2020/auxiliary%20files/data'
 url_poster: ''
 url_project: ''
 url_slides: ''
