@@ -31,13 +31,17 @@ featured: true
 
 links:
 url_pdf: 'pdf/ES2020_Article.pdf'
-url_code: 'code/ES2020'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+[[url_custom]]
+    name = "Custom Link"
+    url = "http://www.example.org"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
