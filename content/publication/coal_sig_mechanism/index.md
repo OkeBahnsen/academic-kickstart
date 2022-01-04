@@ -4,7 +4,7 @@ authors:
 - admin
 - Thomas Gschwend
 - Lukas F. Stoetzer
-date: "2020-08-30T00:00:00Z"
+date: "2020-08-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ featured: true
 
 links:
 url_pdf: 'pdf/ES2020_Article.pdf'
-url_code: ''
+url_code: 'https://github.com/OkeBahnsen/academic-kickstart/tree/master/static/code/ES2020'
 url_dataset: ''
 url_poster: ''
 url_project: ''
