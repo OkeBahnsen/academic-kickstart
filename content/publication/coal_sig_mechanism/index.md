@@ -39,10 +39,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-[[url_custom]]
-    name = "Custom Link"
-    url = "http://www.example.org"
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
