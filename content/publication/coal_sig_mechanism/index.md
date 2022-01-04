@@ -30,9 +30,8 @@ tags:
 featured: true
 
 links:
-url_link: 'https://doi.org/10.1016/j.electstud.2020.102166'
 url_pdf: 'pdf/ES2020_Article.pdf'
-url_replication: 'https://github.com/OkeBahnsen/academic-kickstart/tree/master/static/code/ES2020'
+url_code: 'code/ES2020'
 url_dataset: ''
 url_poster: ''
 url_project: ''
