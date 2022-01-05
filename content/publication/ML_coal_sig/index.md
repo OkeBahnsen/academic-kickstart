@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: "*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing*"
 publication_short: "*EMNLP*"
 
-abstract: In this paper, we introduce the task of political coalition signal prediction from text, that is, the task of recognizing from the news coverage leading up to an election the (un)willingness of political parties to form a government coalition. We decompose our problem into two related, but distinct tasks: (i) predicting whether a reported statement from a politician or a journalist refers to a potential coalition and (ii) predicting the polarity of the signal – namely, whether the speaker is in favour of or against the coalition.
+abstract: In this paper, we introduce the task of political coalition signal prediction from text.
 
 # Summary. An optional shortened abstract.
 summary: 
