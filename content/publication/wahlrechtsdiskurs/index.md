@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.     
+# Publication name and optional abbreviated publication name.      
 publication: "*ZParl 51(4), 844-864*"
 publication_short: "*ZParl 51(4), 844-864*"
 
