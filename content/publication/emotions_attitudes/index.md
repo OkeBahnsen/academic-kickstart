@@ -44,7 +44,7 @@ url_video: ''
 name = 'Extended Abstract'
 url = "https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf?__blob=publicationFile&v=8"
 
-# Featured image 
+# Featured image  
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
