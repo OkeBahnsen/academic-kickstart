@@ -6,7 +6,7 @@ date: "2019-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2030-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-url_pdf: pdf/Social_Interaction_and_Political_Preferences.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Simulated opinion evolution: Numerical solutions of transient densities from the Fokker-Planck equation employing the Crank-Nicolson scheme.'
+  caption: ''
   focal_point: ""
   preview_only: false
 
