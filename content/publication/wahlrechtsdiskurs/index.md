@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 'www.doi.org/10.5771/0340-1758-2020-4-844'
+url_pdf: 'https://www.doi.org/10.5771/0340-1758-2020-4-844'
 url_code: ''
 url_dataset: ''
 url_poster: ''
