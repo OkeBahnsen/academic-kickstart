@@ -4,7 +4,7 @@ authors:
 - Ulrich W. D. Müller
 - admin
 - Georg W. Alpers
-date: "2019-07-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,8 @@ tags:
 featured: false
 
 links:
-url_pdf: 
+url_summary: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf?__blob=publicationFile&v=8'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
