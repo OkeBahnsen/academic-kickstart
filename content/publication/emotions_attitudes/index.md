@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
