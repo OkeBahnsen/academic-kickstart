@@ -18,13 +18,12 @@ publication_types: ["3"]
 publication: "*Working Paper*"
 publication_short: "*Working Paper*"
 
-abstract: Existing research is inconclusive about if and how social interactions affect individuals' political preferences. This study formulates and tests an agent-based model of opinion dynamics which claims to explain the evolution of political preferences by means of social interaction effects. The approach incorporates a majority and a momentum mechanism claiming that individuals are affected by perceived opinion levels as well as by opinion changes. This theoretical model is empirically tested by estimating its parameters on government satisfaction in Germany. The results support the empirical validity of the approach. Beyond that, the findings suggest that individuals are rather affected by opinion changes than by opinion levels and that nonconformity plays a more important role in the evolution of the considered preference than conformity.
-
+abstract: Excluding extremist parties from forming governments, i.e., establishing cordons sanitaires against extremist parties, can be a decisive contribution to safeguarding democracy. The destruction of the Weimar Republic and the rise of Nazism in the 1930s serve as anecdotal evidence for this claim, as there was no such cordon sanitaire against the Nazi Party (NSDAP) and other extremist parties in Germany. Could a cordon sanitaire against extremist parties have changed the fate of the 1930s Weimar Republic? Cordons sanitares are specific coalition signals, and we can use existing theoretical knowledge about the effects of these signals to assess the question at hand. I integrate these theoretical insights into a formal agent-based model of party competition with coalition-directed voters and perform counterfactual simulations in an artificial 1930s Weimar Republic. Preliminary simulation results show that a cordon sanitaire could have resulted in the NSDAP's vote share increasing in the short run and decreasing in the longer run. The results have important implications for research on the stability of democracies.
 
 
 
 # Summary. An optional shortened abstract.
-summary: This study formulates and tests an agent-based model of opinion dynamics which claims to explain the evolution of political preferences by means of social interaction effects.
+summary: 
 
 tags:
 - Source Themes
