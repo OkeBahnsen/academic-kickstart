@@ -31,8 +31,8 @@ tags:
 featured: false
 
 links:
-url_project: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf'
-url_pdf: ''
+url_pdf: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf?__blob=publicationFile&v=8'
+url_project: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
