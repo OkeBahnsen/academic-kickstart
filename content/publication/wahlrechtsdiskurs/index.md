@@ -1,5 +1,5 @@
 ---
-title: "Die Reformen des Wahlrechts zum Deutschen Bundestag 2011 und 2013 in öffentlichen Diskurs"
+title: "The public discourse on the German federal electoral law reforms 2011 and 2013"
 authors:
 - Eric Linhart
 - admin
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 'doi.org/10.5771/0340-1758-2020-4-844'
+url_pdf: 'www.doi.org/10.5771/0340-1758-2020-4-844'
 url_code: ''
 url_dataset: ''
 url_poster: ''
