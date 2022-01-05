@@ -26,7 +26,7 @@ summary:
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 url_pdf: 
