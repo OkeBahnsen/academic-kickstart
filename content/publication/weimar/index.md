@@ -1,5 +1,5 @@
 ---
-title: "An Agent-Based Approach to Estimate Social Interaction Effects on Government Satisfaction in Germany"
+title: "Cordons Sanitaires and the Fate of the Weimar Republic. Counterfactual Simulations of an Agent-Based Model With Coalition-Directed Voters"
 authors:
 - admin
 date: "2019-12-01T00:00:00Z"
