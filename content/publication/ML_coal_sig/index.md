@@ -1,10 +1,13 @@
 ---
-title: "Anxiety does not Change Political Attitudes: A Threat of Shock Experiment"
+title: "Come hither or go away? Recognising pre-electoral coalition signals in the news"
 authors:
-- Ulrich W. D. Müller
+- Ines Rehbein
+- Simone Paolo Ponzetto
+- Anna Adendorf
 - admin
-- Georg W. Alpers
-date: "2021-09-02T00:00:00Z"
+- Lukas Stoetzer
+- Heiner Stuckenschmidt
+date: "2021-11-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,11 +34,11 @@ tags:
 featured: false
 
 links:
-url_project: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf?__blob=publicationFile&v=8'
+url_url: 'https://www.doi.org/10.18653/v1/2021.emnlp-main.615'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_pdf: ''
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
