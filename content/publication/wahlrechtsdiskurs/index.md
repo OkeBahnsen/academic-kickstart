@@ -1,9 +1,9 @@
 ---
-title: "Der Diskurs über Reformen des Bundestagswahlrechts 2008 bis 2013"
+title: "Die Reformen des Wahlrechts zum Deutschen Bundestag 2011 und 2013 in öffentlichen Diskurs"
 authors:
 - Eric Linhart
 - admin
-date: "2019-08-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
-publication_short: "*Working Paper*"
+publication: "*ZParl 51 (4)*"
+publication_short: "*ZParl 51 (4)*"
 
-abstract: 
+abstract: The German electoral law to the federal parliament was reformed in 2011 and in 2013. While political scientists have extensively evaluated consequences of these reforms, the role of the public discourse has been largely neglected. We analyze articles from three leading German newspapers (FAZ, SZ, Welt) on this topic and find the debate around the reforms to be dominated by parties and political institutions. Scientists, interest groups, and journalists have only played minor roles. Regarding content, the discourse largely focused on surplus seats, reform speed, and a proposal by the CDU/CSU‐FDP coalition government in 2011. A broad public debate in which multiple social groups could participate has not taken place. From a normative perspective this is problematic since the lack of a public debate might have contributed to the poor quality of the reform’s result.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 
+url_pdf: 'doi.org/10.5771/0340-1758-2020-4-844'
 url_code: ''
 url_dataset: ''
 url_poster: ''
