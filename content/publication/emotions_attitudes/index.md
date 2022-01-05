@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 'https://tinyurl.com/fyce48ns'
+url_pdf: https://tinyurl.com/fyce48ns
 url_code: ''
 url_dataset: ''
 url_poster: ''
