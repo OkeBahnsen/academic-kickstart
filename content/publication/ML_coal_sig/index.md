@@ -33,7 +33,7 @@ tags:
 featured: false
 
 links:
-url_pdf: 'https://www.doi.org/10.18653/v1/2021.emnlp-main.615'
+url_pdf: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf?__blob=publicationFile&v=8'
 url_code: ''
 url_dataset: ''
 url_poster: ''
