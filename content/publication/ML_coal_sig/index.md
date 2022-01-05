@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Data Collection*"
-publication_short: "*Data Collection*"
+publication: "*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*"
+publication_short: "*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*"
 
 abstract:
 
