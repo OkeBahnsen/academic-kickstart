@@ -33,6 +33,8 @@ featured: false
 links:
 - name: Extended Abstract
   url: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf?__blob=publicationFile&v=8'
+- name: Press Release
+  url: 'https://www.uni-mannheim.de/newsroom/presse/pressemitteilungen/2019/august/koennen-emotionen-wahlkaempfe-entscheiden/'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
