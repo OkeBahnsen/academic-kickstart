@@ -5,7 +5,7 @@ authors:
 date: "2021-12-01T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).  
+# Schedule page publish date (NOT publication's date).   
 publishDate: "2017-12-01T00:00:00Z"
 
 # Publication type.
