@@ -1,12 +1,12 @@
 ---
-title: "Cordons Sanitaires and the Fate of the Weimar Republic. Counterfactual Simulations of an Agent-Based Model With Coalition-Directed Voters"
+title: "Cordons Sanitaires and the Fate of the Weimar Republic: Counterfactual Simulations of an Agent-Based Model With Coalition-Directed Voters"
 authors:
 - admin
-date: "2019-12-01T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date). 
-publishDate: "2030-12-01T00:00:00Z"
+publishDate: "2017-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ abstract: Excluding extremist parties from forming governments, i.e., establishi
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Excluding extremist parties from forming governments, i.e., establishing cordons sanitaires against extremist parties, can be a decisive contribution to safeguarding democracy. The destruction of the Weimar Republic and the rise of Nazism in the 1930s serve as anecdotal evidence for this claim, as there was no such cordon sanitaire against the Nazi Party and other extremist parties in Germany. Could a cordon sanitaire against extremist parties have changed the fate of the 1930s Weimar Republic? Cordons sanitares are specific coalition signals, and we can use existing theoretical knowledge about the effects of these signals to assess the question at hand. I integrate these theoretical insights into a formal agent-based model of party competition with coalition-directed voters and perform counterfactual simulations in an artificial 1930s Weimar Republic.
 
 tags:
 - Source Themes

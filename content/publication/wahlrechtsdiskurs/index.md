@@ -1,5 +1,5 @@
 ---
-title: "The public discourse on the German federal electoral law reforms 2011 and 2013"
+title: "The Public Discourse on the German Federal Electoral Law Reforms 2011 and 2013"
 authors:
 - Eric Linhart
 - admin

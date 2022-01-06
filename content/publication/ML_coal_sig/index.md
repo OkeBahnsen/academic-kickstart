@@ -1,5 +1,5 @@
 ---
-title: "Come hither or go away? Recognising pre-electoral coalition signals in the news"
+title: "Come Hither or Go Away? Recognising Pre-electoral Coalition Signals in the News"
 authors:
 - Ines Rehbein
 - Simone Paolo Ponzetto

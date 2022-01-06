@@ -1,5 +1,5 @@
 ---
-title: "Coalition-directed Voting as a Lottery"
+title: "Coalition-Directed Voting as a Lottery"
 authors:
 - admin
 - Lukas F. Stoetzer
