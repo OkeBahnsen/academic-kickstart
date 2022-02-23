@@ -31,8 +31,6 @@ tags:
 featured: false
 
 links:
-- name: Extended Abstract
-  url: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-der-wissenschaftskonferenz-2021.pdf?__blob=publicationFile&v=8'
 - name: Preregistration
   url: 'https://tinyurl.com/k6v5asvx'
 - name: Press Release
