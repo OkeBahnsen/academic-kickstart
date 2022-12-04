@@ -4,7 +4,7 @@ authors:
 - Ulrich W. D. Müller
 - admin
 - Georg W. Alpers
-date: "2021-09-03T00:00:00Z"
+date: "2022-12-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,17 +14,17 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section; 
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
-publication_short: "*Working Paper*"
+publication: "*Frontiers in Psychology 13*"
+publication_short: "*Frontiers in Psychology 13*"
 
-abstract:
+abstract: Previous research suggests that state anxiety may sway political attitudes. However, previous experimental procedures induced anxiety using political contexts (e.g., social or economic threat). In a pre-registered laboratory experiment, we set out to examine if anxiety that is unrelated to political contexts can influence political attitudes. We induced anxiety with a threat of shock paradigm, void of any political connotation. All participants were instructed that they might receive an electric stimulus during specified threat periods and none during safety periods. Participants were randomly assigned to one of two conditions: Political attitudes (implicit and explicit) were assessed under safety in one condition and under threat in the other. Psychometric, as well as physiological data (skin conductance, heart rate), confirmed that anxiety was induced successfully. However, this emotional state did not alter political attitudes. In a Bayesian analytical approach, we confirmed the absence of an effect. Our results suggest that state anxiety by itself does not sway political attitudes. Previously observed effects that were attributed to anxiety may be conditional on a political context of threat.
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Previous research suggests that state anxiety may sway political attitudes. However, previous experimental procedures induced anxiety using political contexts (e.g., social or economic threat). In a pre-registered laboratory experiment, we set out to examine if anxiety that is unrelated to political contexts can influence political attitudes. We induced anxiety with a threat of shock paradigm, void of any political connotation.
 
 tags:
 - Source Themes
@@ -35,7 +35,10 @@ links:
   url: 'https://tinyurl.com/k6v5asvx'
 - name: Press Release
   url: 'https://www.uni-mannheim.de/newsroom/presse/pressemitteilungen/2019/august/koennen-emotionen-wahlkaempfe-entscheiden/'
-url_pdf: ''
+- name: Extended Abstract
+  url: 'https://www.verfassungsschutz.de/SharedDocs/Downloads/DE/Verfassungsschutz/programm-wis-konferenz.pdf?__blob=publicationFile&v=3'
+  
+url_pdf: 'https://doi.org/10.3389/fpsyg.2022.1006757'
 url_code: ''
 url_dataset: ''
 url_poster: ''
