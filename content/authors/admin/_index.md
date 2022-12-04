@@ -2,7 +2,6 @@
 name: Oke Bahnsen
 authors: admin
 superuser: yes
-role: Research Associate
 organizations:
 - name: University of Mannheim
   url: ''
