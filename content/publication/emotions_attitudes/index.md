@@ -1,5 +1,5 @@
 ---
-title: "Anxiety by Itself Does Not Change Political Attitudes: A Threat of Shock Experiment"
+title: "State anxiety by itself does not change political attitudes: A threat of shock experiment"
 authors:
 - Ulrich W. D. Müller
 - admin
