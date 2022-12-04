@@ -34,9 +34,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/okebahnsen
-- icon: linkedin
-  icon_pack: fab
-  link: https://de.linkedin.com/in/oke-bahnsen-243832127
 - icon: github
   icon_pack: fab
   link: https://github.com/OkeBahnsen
