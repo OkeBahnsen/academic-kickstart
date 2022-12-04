@@ -28,7 +28,7 @@ summary: Previous research suggests that state anxiety may sway political attitu
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Preregistration
