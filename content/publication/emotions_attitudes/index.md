@@ -35,7 +35,6 @@ links:
   url: 'https://tinyurl.com/k6v5asvx'
 - name: Press Release
   url: 'https://www.uni-mannheim.de/newsroom/presse/pressemitteilungen/2019/august/koennen-emotionen-wahlkaempfe-entscheiden/'
-
 url_pdf: 'https://doi.org/10.3389/fpsyg.2022.1006757'
 url_code: ''
 url_dataset: ''
