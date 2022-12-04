@@ -40,9 +40,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Xd7NWT4AAAAJ
-- icon: clarivate
+- icon: orcid
   icon_pack: ai
-  link: https://www.webofscience.com/wos/author/record/2079726
+  link: https://orcid.org/0000-0003-3198-2804
 - icon: cv
   icon_pack: ai
   link: pdf/Bahnsen_Academic_CV.pdf
