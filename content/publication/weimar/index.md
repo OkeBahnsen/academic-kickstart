@@ -30,6 +30,8 @@ tags:
 featured: true
 
 links:
+- name: Presentation (Video)
+  url: 'https://www.youtube.com/watch?v=qwODqa6KXzY'
 url_pdf: 
 url_code: ''
 url_dataset: ''
