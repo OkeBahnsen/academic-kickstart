@@ -16,7 +16,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate, Present
+  - course: PhD Candidate, 2024
     institution: Graduate School of Economic and Social Sciences, University of Mannheim
   - course: M.Sc. in Economics
     institution: University of Kiel
@@ -53,4 +53,3 @@ user_groups:
 ---
 
 I am a PhD Candidate in Political Science at the [Graduate School of Economic and Social Sciences (GESS)](https://gess.uni-mannheim.de/) at the [University of Mannheim](https://www.uni-mannheim.de/en/). My substantial research focuses on **coalition politics** and **electoral behavior**, especially on pre-electoral coalition politics and how it affects electoral behavior. Methodologically, I am interested in **experimental research** conducted both in the laboratory and in large-scale population-based surveys. I am also engaged in **agent-based modeling**, which I use to study party competition and opinion dynamics.
-
